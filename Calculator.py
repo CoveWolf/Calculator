@@ -1,7 +1,6 @@
 import tkinter
 import math  
 
-
 master = tkinter.Tk()
 master.title("Calculator")
 master.geometry("300x300")  
